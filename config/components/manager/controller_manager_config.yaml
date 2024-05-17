@@ -25,7 +25,7 @@ clientConnection:
 waitForPodsReady:
   enable: true
   blockAdmission: false
-manageJobsWithoutQueueName: true
+#manageJobsWithoutQueueName: true
 #internalCertManagement:
 #  enable: false
 #  webhookServiceName: ""
